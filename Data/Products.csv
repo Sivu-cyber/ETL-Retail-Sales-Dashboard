@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+P001,Laptop,Electronics,55000
+P002,Mouse,Accessories,800
+P003,Keyboard,Accessories,1500
+P004,Monitor,Electronics,12000
+P005,Headphones,Accessories,2500
+P006,Printer,Electronics,18000
+P007,Webcam,Accessories,3500
+P008,Tablet,Electronics,30000
+P009,USB Cable,Accessories,500
+P010,Office Chair,Furniture,8500
