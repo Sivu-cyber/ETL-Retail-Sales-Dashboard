@@ -1,9 +1,0 @@
-Total Sales = SUM(FactSales[SalesAmount])
-
-Total Quantity = SUM(FactSales[Quantity])
-
-Total Orders = DISTINCTCOUNT(FactSales[SaleID])
-
-Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
-
-Average Unit Price = AVERAGE(FactSales[UnitPrice])
